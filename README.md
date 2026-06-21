@@ -13,12 +13,12 @@ http://robo-takao.jp/NX28/e/index.html
 Now preparing!    
 
 [Components]  
-    1)M5 Atom S3R  
-    2)OLED SSD 1306 128 x 64  
-    3)Servos SG92R x 5  
-    4)Servos FS403 x 2  
-    5)Lithium Ion Battery 16340 3.7V  
-    6)M5 Cardputer for motion editing and control
+- M5 Atom S3R  
+- OLED SSD 1306 128 x 64  
+- Servos SG92R x 5  
+- Servos FS403 x 2  
+- Lithium Ion Battery 16340 3.7V  
+- M5 Cardputer for motion editing and control
 
 [Concept desing]  
 Rough sketch by myself  
