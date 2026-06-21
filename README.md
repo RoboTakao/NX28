@@ -48,27 +48,27 @@ Concept picture by ChatGPT based on my schetch.
 
 - F	Forward  
 - C	Back  
-  V	Right  
-  X	Left  
-  G	Right Turn  
-  D	Left Turn  
+- V	Right  
+- X	Left
+- G	Right Turn  
+- D	Left Turn  
 
 Servo Edit
-  Select Servo
-   [ : Previous Servo
-   ] : Next Servo
-  Adjust Value
+- Select Servo
+   `[` : Previous Servo
+   `]` : Next Servo
+- Adjust Value
    + : Increase
    - : Decrease
   (Hold the key for faster adjustment.)  
 
-Trim Mode  
+- Trim Mode  
   T : Toggle Trim Mode  
   Modes:  
    MOV = Motion Offset Edit
    TRM = Servo Trim Edit
 
-Step Control
+- Step Control
   , : Previous Step
   . : Next Step
 
@@ -76,7 +76,7 @@ Motion Length
   < : Shorter Motion  
   > : Longer Motion  
 
-Save  
+- Save  
   S : Save all data to SD Card  
    Saved data:  
    Motion data  
@@ -84,7 +84,7 @@ Save
    Motion lengths  
    Joystick Modes  
 
-Press the joystick button to switch modes.  
+- Press the joystick button to switch modes.  
   CTRL:1  
     Up → Forward  
     Down → Back  
