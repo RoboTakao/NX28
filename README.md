@@ -55,12 +55,12 @@ Concept picture by ChatGPT based on my schetch.
 
 Servo Edit
 - Select Servo　　
-   `[` : Previous Servo
-   `]` : Next Servo
+   `[` : Previous Servo　　
+   `]` : Next Servo　　
 - Adjust Value　　
-   `+` : Increase
-   `-` : Decrease
-  (Hold the key for faster adjustment.)  
+   `+` : Increase　　
+   `-` : Decrease　　
+  (Hold the key for faster adjustment.)  　　
 
 - Trim Mode  
   T : Toggle Trim Mode  
