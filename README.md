@@ -97,8 +97,8 @@ Motion Length
 　　　　　　　　Left → Left  
 　　　　JOY:DIRECT  
 　　　　　　　　Direct servo control (Head Control):  
-　　　　　　　　X Axis → Servo 1  
-　　　　　　　　Y Axis → Servo 2  
+　　　　　　　　X Axis → Servo 1  Head Roll
+　　　　　　　　Y Axis → Servo 2  Head Pitch
 
 [Face]  
 Normal  
