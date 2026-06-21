@@ -5,7 +5,6 @@ I built a quadruped robot using the M5AtomS3R. It features an OLED display that 
 - Simple and cheep as much as possible  
 -　Cute and Cool  
 -　Motion editing and controling with M5 Cardputer
--　Trucking Face  
 
 http://robo-takao.jp/NX28/e/index.html
 
