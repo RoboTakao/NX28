@@ -109,6 +109,6 @@ Smile
 
 [Code]  
 M5AtomS3R  
-    NX28_M5AtomS3R  
+- NX28_M5AtomS3R  
 M5Cardputer  
-    NX27_M5Cardputer  
+- NX27_M5Cardputer  
