@@ -44,18 +44,10 @@ Concept picture by ChatGPT based on my schetch.
 ![image](NX28_11.jpg)
 ![image](NX28_12.jpg)
 
-[Face]  
-Normal  
-![image](NX28_14.jpg)
-  
-Smile  
-![image](NX28_13.jpg)
-
 [How to use]  
 
-Key Motion  
-  F	Forward  
-  C	Back  
+- F	Forward  
+- C	Back  
   V	Right  
   X	Left  
   G	Right Turn  
@@ -107,6 +99,15 @@ Press the joystick button to switch modes.
     Direct servo control (Head Control):
     X Axis → Servo 1
     Y Axis → Servo 2  
+
+[Face]  
+Normal  
+![image](NX28_14.jpg)
+  
+Smile  
+![image](NX28_13.jpg)
+
+
 
 
 [Code]  
