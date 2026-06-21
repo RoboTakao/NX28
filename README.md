@@ -56,26 +56,27 @@ Concept picture by ChatGPT based on my schetch.　　
 Servo Edit
 - Select Servo　　
 　　　　`[` : Previous Servo　　
-　　　　`]` : Next Servo　　
+　　　　`]` : Next Servo
+  
 - Adjust Value　　
 　　　　`+` : Increase
 　　　　`-` : Decrease　　
-  (Hold the key for faster adjustment.)  　　
-
+  (Hold the key for faster adjustment.)  
+  
 - Trim Mode  
   T : Toggle Trim Mode  
   Modes:  
    　　MOV = Motion Offset Edit　　
    　　TRM = Servo Trim Edit　　
-
+  
 - Step Control　　
   　　, : Previous Step　　
   　　. : Next Step　　
-
+  
 Motion Length  
   　　`<` : Shorter Motion  
   　　`>` : Longer Motion  
-
+  
 - Save  
 　　　　S : Save all data to SD Card  
 　　　　Saved data:  
@@ -83,7 +84,7 @@ Motion Length
 　　　　Trim values  
 　　　　Motion lengths  
 　　　　Joystick Modes  
-
+  
 - Press the joystick button to switch modes.  
 　　　　CTRL:1  
 　　　　　　　　Up → Forward  
@@ -99,7 +100,7 @@ Motion Length
 　　　　　　　　Direct servo control (Head Control):  
 　　　　　　　　X Axis → Servo 1  Head Roll
 　　　　　　　　Y Axis → Servo 2  Head Pitch
-
+  
 [Face]  
 Normal  
 ![image](NX28_14.jpg)
