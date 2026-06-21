@@ -24,8 +24,8 @@ Now preparing!
 Rough sketch by myself  
 ![image](NX28_04.jpg)
 
-Concept picture by ChatGPT based on my schetch.
-![image](NX28_03.png)
+Concept picture by ChatGPT based on my schetch.　　
+![image](NX28_03.jpg)
 
 [3D design]  
 ![image](NX28_02.png)
