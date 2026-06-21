@@ -17,7 +17,7 @@ Now preparing!
 2)OLED SSD 1306 128 x 64  
 3)Servos SG92R x 5  
 4)Servos FA403 x 2  
-5)Lithium Ion Battery 3.7V  
+5)Lithium Ion Battery 16340 3.7V  
 6)M5 Cardputer for motion editing and control
 
 [Concept desing]  
