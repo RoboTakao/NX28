@@ -47,30 +47,30 @@ Concept picture by ChatGPT based on my schetch.
 [How to use]  
 
 - F	Forward  
-- C	Back  
-- V	Right  
+- C	Back
+- V	Right
 - X	Left
-- G	Right Turn  
+- G	Right Turn
 - D	Left Turn  
 
 Servo Edit
-- Select Servo
+- Select Servo　　
    `[` : Previous Servo
    `]` : Next Servo
-- Adjust Value
-   + : Increase
-   - : Decrease
+- Adjust Value　　
+   `+` : Increase
+   `-` : Decrease
   (Hold the key for faster adjustment.)  
 
 - Trim Mode  
   T : Toggle Trim Mode  
   Modes:  
-   MOV = Motion Offset Edit
-   TRM = Servo Trim Edit
+   MOV = Motion Offset Edit　　
+   TRM = Servo Trim Edit　　
 
-- Step Control
-  , : Previous Step
-  . : Next Step
+- Step Control　　
+  , : Previous Step　　
+  . : Next Step　　
 
 Motion Length  
   < : Shorter Motion  
