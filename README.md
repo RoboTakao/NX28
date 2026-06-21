@@ -1,24 +1,24 @@
 # NX28
+[Summary]  
 ![image](NX28_01.png)
-I made 4legs robot with M5 Atom S3R and OLED face
+I made 4 legs robot with M5 Atom S3R and OLED face
 - Simple and cheep as much as possible  
 -  Cute and Cool  
 -  Motion editing and controling with M5 Cardputer
 -  Trucking Face  
 
-[Summary]
 http://robo-takao.jp/NX28/e/index.html
 
 [Movie]
 Now preparing!    
 
 [Components]  
-1)M5 Atom S3R  
-2)OLED SSD 1306 128 x 64  
-3)Servos SG92R x 5  
-4)Servos FA403 x 2  
-5)Lithium Ion Battery 16340 3.7V  
-6)M5 Cardputer for motion editing and control
+    1)M5 Atom S3R  
+    2)OLED SSD 1306 128 x 64  
+    3)Servos SG92R x 5  
+    4)Servos FS403 x 2  
+    5)Lithium Ion Battery 16340 3.7V  
+    6)M5 Cardputer for motion editing and control
 
 [Concept desing]  
 Rough sketch by myself  
