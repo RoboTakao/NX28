@@ -1,11 +1,11 @@
 # NX28
 [Summary]  
 ![image](NX28_01.png)
-I made 4 legs robot with M5 Atom S3R and OLED face
+I built a quadruped robot using the M5AtomS3R. It features an OLED display that shows animated facial expressions. Motion sequences can be edited with the M5Cardputer, and the robot can also be controlled in real time using a joystick.　　
 - Simple and cheep as much as possible  
--  Cute and Cool  
--  Motion editing and controling with M5 Cardputer
--  Trucking Face  
+-　Cute and Cool  
+-　Motion editing and controling with M5 Cardputer
+-　Trucking Face  
 
 http://robo-takao.jp/NX28/e/index.html
 
@@ -19,6 +19,7 @@ Now preparing!
 - Servos FS403 x 2  
 - Lithium Ion Battery 16340 3.7V  
 - M5 Cardputer for motion editing and control
+- M5 Joy2  
 
 [Concept desing]  
 Rough sketch by myself  
