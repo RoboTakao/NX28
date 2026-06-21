@@ -108,6 +108,13 @@ Normal
 Smile  
 ![image](NX28_13.jpg)
 
+[Motion]  
+Forward 
+![image](NX28_16.jpg)
+  
+Right Turn 
+![image](NX28_15.jpg)
+
 [Code]  
 M5AtomS3R  
 - NX28_M5AtomS3R
