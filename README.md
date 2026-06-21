@@ -95,9 +95,9 @@ Motion Length
 　　　　　　　　Down → Back  
 　　　　　　　　Right → Right  
 　　　　　　　　Left → Left  
-　　　　JOY:DIRECT
-　　　　　　　　Direct servo control (Head Control):
-　　　　　　　　X Axis → Servo 1
+　　　　JOY:DIRECT  
+　　　　　　　　Direct servo control (Head Control):  
+　　　　　　　　X Axis → Servo 1  
 　　　　　　　　Y Axis → Servo 2  
 
 [Face]  
@@ -107,11 +107,8 @@ Normal
 Smile  
 ![image](NX28_13.jpg)
 
-
-
-
 [Code]  
 M5AtomS3R  
- NX28_M5AtomS3R  
+    NX28_M5AtomS3R  
 M5Cardputer  
- NX27_M5Cardputer  
+    NX27_M5Cardputer  
