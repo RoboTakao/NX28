@@ -9,7 +9,7 @@ I built a quadruped robot using the M5AtomS3R. It features an OLED display that 
 http://robo-takao.jp/NX28/e/index.html
 
 [Movie]
-Now preparing!    
+https://youtu.be/c2vBsqANVyo?si=tSi9-Or4gTlTkMn6    
 
 [Components]  
 - M5 Atom S3R  
@@ -51,7 +51,8 @@ Concept picture by ChatGPT based on my schetch.　　
 - V	Right
 - X	Left
 - G	Right Turn
-- D	Left Turn  
+- D	Left Turn
+- H Home
 
 Servo Edit
 - Select Servo　　
