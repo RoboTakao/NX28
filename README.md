@@ -6,6 +6,7 @@ I built a quadruped robot using the M5AtomS3R. It features an OLED display that 
 -　Cute and Cool  
 -　Motion editing and controling with M5 Cardputer
 
+[Web site] Now preparing  
 http://robo-takao.jp/NX28/e/index.html
 
 [Movie]
@@ -121,4 +122,4 @@ M5AtomS3R
 - NX28_M5AtomS3R
 
 M5Cardputer  
-- NX27_M5Cardputer  
+- NX28_M5Cardputer  
