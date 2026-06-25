@@ -25,7 +25,7 @@ https://youtu.be/c2vBsqANVyo?si=tSi9-Or4gTlTkMn6
 Rough sketch by myself  
 ![image](NX28_04.jpg)
 
-Concept picture by ChatGPT based on my schetch.　　
+Concept picture by ChatGPT based on my sketch.　　
 ![image](NX28_03.jpg)
 
 [3D design]  
